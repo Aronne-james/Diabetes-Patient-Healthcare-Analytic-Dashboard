@@ -5,6 +5,7 @@ Excel dashboard analyzing 1,200 diabetic patients to track HbA1c control, BMI, c
 -<a href="https://github.com/Aronne-james/Diabetes-Patient-Healthcare-Analytic-Dashboard/blob/main/Early%20Detection.xlsx">Dataset view</a>
 
 * Key Insights at a Glance:
+  
 📊 Diabetes Control Status & HbA1c Category Distribution 📈 Age vs HbA1c Analysis 👫 Gender vs BMI & Blood Sugar 🧬 BMI vs Cholesterol Co-occurrence 💊 Medication Effectiveness ⚠️ Family History Impact 🚬 Smoking vs BP & Cholesterol 🏃‍♂️ Exercise Impact on HbA1c
 
 Tools Used
