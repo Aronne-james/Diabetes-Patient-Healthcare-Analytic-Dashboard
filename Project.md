@@ -21,6 +21,6 @@ Looking for a custom dashboard? Let's connect! 🤝
 
 - Dashboard <a href="https://github.com/Aronne-james/Diabetes-Patient-Healthcare-Analytic-Dashboard/blob/main/Early%20Detect.png">dashboard view</a>
 
-<img width="1073" height="642" alt="Early Detect" src="https://github.com/user-attachments/assets/4c4062c1-ddad-423e-9f8a-771501fb0ec0" />
+<img width="865" height="539" alt="Early Detect" src="https://github.com/user-attachments/assets/24bd17cd-3e15-45d9-8dfe-6b11415dc447" />
 
 #ExcelDashboard #DataVisualization #HealthcareAnalytics #ExcelExpert #BusinessIntelligence #DataAnalysis #Skills: Data Cleaning - Excel Dashboards - Data Science - Excel Pivot - Microsoft Excel - Microsoft Office - Microsoft Excel Macros - Pivot Table
